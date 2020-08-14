@@ -2,12 +2,13 @@
 Files and code for the CSET Data Brief "Patent Landscape for Computer Vision: United States and China"
 
 # Files
-We provide the top 100 patenting organizations for both China and the United States. Each file contains two field, Organization Name and Patent Count.
+We provide the .csv files with the top 100 patenting organizations for both China and the United States: 
+* Top 100 Compviz China.csv
+* Top 100 Compviz US.csv
 
-*Top 100 Compviz China.csv
-*Top 100 Compviz US.csv
+Each file contains two field, Organization Name and Patent Count.
 
-Top 5 patenting organizations in China:
+## Top 5 patenting organizations in China:
 | Organization Name                         | Patent Count |
 | ----------------------------------------- | ------------ |
 | UNIVERSITY OF XIDIAN                      | 614          |
@@ -16,7 +17,7 @@ Top 5 patenting organizations in China:
 | PING AN TECHNOLOGY SHENZHEN CO LTD	      | 523          |
 | UNIVERSITY OF ELECTRONIC SCI & TECH CHINA	| 486          |
 
-Top 5 patenting organizations in the United States:
+## Top 5 patenting organizations in the United States:
 | Organization Name                         | Patent Count |
 | ----------------------------------------- | ------------ |
 | GOOGLE INC	                              | 1103         |
