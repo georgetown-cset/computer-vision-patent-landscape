@@ -6,7 +6,7 @@ We provide the .csv files with the top 100 patenting organizations for both Chin
 * [Top 100 Compviz China.csv](https://github.com/georgetown-cset/computer-vision-patent-landscape/blob/master/Top%20100%20Compviz%20China.csv)
 * [Top 100 Compviz US.csv](https://github.com/georgetown-cset/computer-vision-patent-landscape/blob/master/Top%20100%20Compviz%20US.csv)
 
-Each file contains two field, Organization Name and Patent Count.
+Each file contains two fields, Organization Name (the assignee listed on the patent) and Patent Count (the total number of patents filed by the organization).
 
 **Top 5 patenting organizations in China:**
 | Organization Name                         | Patent Count |
