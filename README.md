@@ -27,4 +27,4 @@ Each file contains two field, Organization Name and Patent Count.
 | INTEL CORP	                            	| 819          |
 
 # Code 
-All SQL queries used to generate tables for our analysis are contained in the file (CVpatent_queries.sql)[https://github.com/georgetown-cset/computer-vision-patent-landscape/blob/master/CVpatent_queries.sql].
+All SQL queries used to generate tables for our analysis are contained in the file [CVpatent_queries.sql](https://github.com/georgetown-cset/computer-vision-patent-landscape/blob/master/CVpatent_queries.sql).
