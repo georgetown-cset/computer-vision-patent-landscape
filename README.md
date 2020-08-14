@@ -8,7 +8,7 @@ We provide the .csv files with the top 100 patenting organizations for both Chin
 
 Each file contains two field, Organization Name and Patent Count.
 
-## Top 5 patenting organizations in China:
+**Top 5 patenting organizations in China:**
 | Organization Name                         | Patent Count |
 | ----------------------------------------- | ------------ |
 | UNIVERSITY OF XIDIAN                      | 614          |
@@ -17,7 +17,7 @@ Each file contains two field, Organization Name and Patent Count.
 | PING AN TECHNOLOGY SHENZHEN CO LTD	      | 523          |
 | UNIVERSITY OF ELECTRONIC SCI & TECH CHINA	| 486          |
 
-## Top 5 patenting organizations in the United States:
+**## Top 5 patenting organizations in the United States:**
 | Organization Name                         | Patent Count |
 | ----------------------------------------- | ------------ |
 | GOOGLE INC	                              | 1103         |
