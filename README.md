@@ -17,7 +17,7 @@ Each file contains two field, Organization Name and Patent Count.
 | PING AN TECHNOLOGY SHENZHEN CO LTD	      | 523          |
 | UNIVERSITY OF ELECTRONIC SCI & TECH CHINA	| 486          |
 
-**## Top 5 patenting organizations in the United States:**
+**Top 5 patenting organizations in the United States:**
 | Organization Name                         | Patent Count |
 | ----------------------------------------- | ------------ |
 | GOOGLE INC	                              | 1103         |
