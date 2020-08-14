@@ -3,8 +3,8 @@ Files and code for the CSET Data Brief "Patent Landscape for Computer Vision: Un
 
 # Files
 We provide the .csv files with the top 100 patenting organizations for both China and the United States: 
-* Top 100 Compviz China.csv
-* Top 100 Compviz US.csv
+* [Top 100 Compviz China.csv](https://github.com/georgetown-cset/computer-vision-patent-landscape/blob/master/Top%20100%20Compviz%20China.csv)
+* [Top 100 Compviz US.csv](https://github.com/georgetown-cset/computer-vision-patent-landscape/blob/master/Top%20100%20Compviz%20US.csv)
 
 Each file contains two field, Organization Name and Patent Count.
 
