@@ -38,4 +38,4 @@ SELECT SUBSTR(First_priority_number, 0, 2) as Country, assignee_unique, publicat
 FROM (SELECT * FROM `gcp-cset-projects.1790_patents.1790_ai_patents_all_quantitative_information`
 CROSS JOIN UNNEST(Assignees) as assignee_unique
 WHERE SUBSTR(First_priority_number, 0, 2)  = 'US' AND Speech_Processing
-OR SUBSTR(First_priority_number, 0, 2)  = 'US' AND Language_Processing)"
+OR SUBSTR(First_priority_number, 0, 2)  = 'US' AND Language_Processing)
